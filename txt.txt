@@ -1,0 +1,14 @@
+hathi il 5dma ili 5dmnaha fi iteam 3and mthoraya 2025 
+*******************tr1 *********************
+-var 
+-var type
+-table
+-enreg
+-enreg and table
+***********************tr2****************
+-pointer
+-liste ch
+-liste doble ch
+-liste cerculer
+-pile
+-file
